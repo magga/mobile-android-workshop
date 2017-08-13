@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    tools:context="id.magga.myemployeedatabase.MainActivity">
+
+    <EditText
+        android:id="@+id/etID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:ems="10"
+        android:hint="ID"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/etNama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/etID"
+        android:layout_below="@+id/etID"
+        android:ems="10"
+        android:hint="Nama"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/etTanggalLahir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/etNama"
+        android:ems="10"
+        android:hint="Tanggal Lahir"
+        android:inputType="date" />
+
+    <RadioGroup
+        android:id="@+id/rgJenisKelamin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/etTanggalLahir"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rbLakiLaki"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Laki - Laki" />
+
+        <RadioButton
+            android:id="@+id/rbPerempuan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Perempuan" />
+    </RadioGroup>
+
+    <CheckBox
+        android:id="@+id/cbMenikah"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/rgJenisKelamin"
+        android:text="Sudah Menikah" />
+
+    <EditText
+        android:id="@+id/etTelepon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cbMenikah"
+        android:layout_toEndOf="@+id/rgJenisKelamin"
+        android:ems="10"
+        android:hint="Telepon"
+        android:inputType="textPersonName"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:id="@+id/etFoto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Foto"
+        android:inputType="textPersonName"
+        android:layout_below="@+id/etTelepon"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/btnAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/etFoto"
+        android:onClick="Add"
+        android:text="ADD" />
+</RelativeLayout>
