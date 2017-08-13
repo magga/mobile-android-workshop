@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\magga\\Git\\Mobile\\Android-Workshop\\02-Android-Studio\\Code\\03-Section-2-Exercise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\magga\\.android\\build-cache\\851ba709a735e810cdd6ae5fbebbdf56067e7118\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\magga\\Git\\Mobile\\Android-Workshop\\02-Android-Studio\\Code\\03-Section-2-Exercise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\magga\\.android\\build-cache\\851ba709a735e810cdd6ae5fbebbdf56067e7118\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\magga\\Git\\Mobile\\Android-Workshop\\02-Android-Studio\\Code\\03-Section-2-Exercise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\magga\\.android\\build-cache\\851ba709a735e810cdd6ae5fbebbdf56067e7118\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\magga\\Git\\Mobile\\Android-Workshop\\02-Android-Studio\\Code\\03-Section-2-Exercise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\magga\\.android\\build-cache\\851ba709a735e810cdd6ae5fbebbdf56067e7118\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]

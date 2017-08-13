@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\magga\\Git\\Mobile\\Android-Workshop\\02-Android-Studio\\Code\\03-Section-2-Exercise\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\magga\\Git\\Mobile\\Android-Workshop\\02-Android-Studio\\Code\\03-Section-2-Exercise\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\magga\\Git\\Mobile\\Android-Workshop\\02-Android-Studio\\Code\\03-Section-2-Exercise\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\magga\\Git\\Mobile\\Android-Workshop\\02-Android-Studio\\Code\\03-Section-2-Exercise\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

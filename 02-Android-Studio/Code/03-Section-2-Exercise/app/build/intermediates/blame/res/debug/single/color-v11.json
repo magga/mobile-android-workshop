@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\magga\\Git\\Mobile\\Android-Workshop\\02-Android-Studio\\Code\\03-Section-2-Exercise\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\magga\\.android\\build-cache\\851ba709a735e810cdd6ae5fbebbdf56067e7118\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\magga\\Git\\Mobile\\Android-Workshop\\02-Android-Studio\\Code\\03-Section-2-Exercise\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\magga\\.android\\build-cache\\851ba709a735e810cdd6ae5fbebbdf56067e7118\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]
